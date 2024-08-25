@@ -1,0 +1,102 @@
+.predictor-container {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .purpose-statement {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .purpose-statement h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .purpose-statement p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .input-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  select {
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+  
+  .submit-button {
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .prediction-result {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .prediction-result h2 {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .prediction-result p {
+    font-size: 18px;
+    color: #007bff;
+    margin-top: 10px;
+  }
+  
+  .suggestions {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .suggestions h3 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .suggestions ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .suggestions li {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 8px;
+  }
+  
